@@ -12,11 +12,21 @@ MK bot v²
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <p align="center">
-  <a href="https://github.com/XdKing2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/XdKing2?label=Followers&style=social"></a>
-  <a href="https://github.com/XdKing2/Mk-bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/XdKing2/Mk-bot?&style=social"></a>
-  <a href="https://github.com/XdKing2/Mk-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/XdKing2/Mk-bot?style=social"></a>
-  <a href="https://github.com/XdKing2/Mk-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XdKing2/Mk-bot?label=Watching&style=social"></a>
+  <a href="https://github.com/XdKing2?tab=followers">
+    <img src="https://img.shields.io/github/followers/XdKing2?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/XdKing2/Mk-bot/stargazers">
+    <img src="https://img.shields.io/github/stars/XdKing2/Mk-bot?label=Stars&style=flat&color=brightgreen" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/XdKing2/Mk-bot/network/members">
+    <img src="https://img.shields.io/github/forks/XdKing2/Mk-bot?label=Forks&style=flat&color=orange" alt="GitHub Forks" />
+  </a>
+  <a href="https://github.com/XdKing2/Mk-bot/watchers">
+    <img src="https://img.shields.io/github/watchers/XdKing2/Mk-bot?label=Watching&style=flat&color=purple" alt="GitHub Watchers" />
+  </a>
 </p>
+
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
