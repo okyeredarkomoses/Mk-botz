@@ -34,7 +34,7 @@ MK bot v²
 •FORK THIS REPO
 
  <p align="left">
-  <a href="https://github.com/XdKing2/MALVIN-XD/fork">
+  <a href="https://github.com/XdKing2/Mk-bot/fork">
     <img src="https://img.shields.io/badge/Fork-MALVIN--XD-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
