@@ -35,7 +35,7 @@ MK bot v²
 
  <p align="left">
   <a href="https://github.com/XdKing2/Mk-bot/fork">
-    <img src="https://img.shields.io/badge/Fork-MALVIN--XD-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fork-MK-Bot-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -66,6 +66,13 @@ MK bot v²
 > **Download the bot file**
 <p align="left">  
 <a href='https://github.com/XdKing2/Mk-bot/archive/refs/heads/main.zip' target="_blank"><img alt='Download Bot File' src='https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white'/></a>  
+</p>
+
+### DEPLOY MK-BOT
+
+> **Deploy to panel**
+<p align="left">  
+<a href='https://dash.hmvhostings.com/register?ref=GKTSTyFY' target="_blank"><img alt='Deploy Bot ' src='https://img.shields.io/badge/Deploy%20Bot-FF001D?style=for-the-badge&logo=github&logoColor=white'/></a>  
 </p>
 
 
