@@ -689,6 +689,8 @@ await react(m, "😁");
 ├◦ 🍴 ғᴏʀᴋs: _${repo.forks_count}_
 ├◦ 👁️ ᴡᴀᴛᴄʜᴇʀs: _${repo.watchers_count}_
 ├◦ 🛠️ ᴏᴘᴇɴ ɪssᴜᴇs: _${repo.open_issues_count}_
+├◦ 🤖 *Bot Script*:
+│  _https://github.com/XdKing2/Mk-bot_
 
 ╰───────────────╯
 
