@@ -15,29 +15,35 @@ WhatsApp Me : 263780166288
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "263780166288"
-global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
-global.namaowner2 = "ʟᴏʀᴅ ᴍᴀʟᴠɪɴ"
+
+global.owner = "263780166288" //replace with your phone number
+global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ" //replace with your name
+
 
 //======== Setting Bot & Link ========//
 global.namabot = "ᴍᴋ-𝚋𝚘𝚝" 
-global.namabot2 = "ᴍᴋ-𝚋𝚘𝚝"
-global.version = "v2"
-global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋᴊɴɢ"
+global.version = "v3.5.0"
+global.foother = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
 global.linkgc = 'https://youtube.com/@malvintech2'
 global.linksaluran = "https://youtube.com/@malvintech2"
 global.linkyt = 'https://youtube.com/@malvintech2'
-global.linktele = "https://t.me/malvintech"
 global.packname = "ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴋ-ʙᴏᴛ"
 global.author = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
 
+
 //========== Setting Event ==========//
+
+// true or false as you like
+
 global.welcome = true
 global.autoread = false
 global.anticall = false
-global.autoreadsw = false
+global.autoreadsw = true // Auto-read statuses
+global.autolikesw = true // Auto-like statuses
 global.owneroff = false
-global.antibug = true
+global.antibug = false
+
+global.caption = '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
 
 
 //========= Setting Message =========//
